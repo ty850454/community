@@ -11,6 +11,7 @@
     <modules>
         <module>core</module>
         <module>post</module>
+        <module>starter</module>
     </modules>
 
     <properties>

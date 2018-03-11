@@ -9,15 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>post</artifactId>
+    <artifactId>starter</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>com.dreammakerteam.community</groupId>
-            <artifactId>core</artifactId>
+            <artifactId>post</artifactId>
             <version>${appVersion}</version>
         </dependency>
     </dependencies>
-
-
 </project>
