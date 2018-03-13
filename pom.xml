@@ -12,6 +12,7 @@
         <module>core</module>
         <module>post</module>
         <module>starter</module>
+        <module>user</module>
     </modules>
 
     <properties>
