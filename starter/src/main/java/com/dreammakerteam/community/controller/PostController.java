@@ -1,5 +1,8 @@
 package com.dreammakerteam.community.controller;
 
+import com.dreammakerteam.community.post.domain.PostRequestVo;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -12,8 +15,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/post")
 public class PostController {
 
-    @RequestMapping
-    public String post() {
+    @PostMapping
+    public String createPost(PostRequestVo postRequestVo) {
+
         return "post";
     }
 }
