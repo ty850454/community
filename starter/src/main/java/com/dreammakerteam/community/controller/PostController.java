@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/post")
 public class PostController {
 
-    @PostMapping
+/*    @PostMapping
     public String createPost(PostRequestVo postRequestVo) {
 
         return "post";
-    }
+    }*/
 }

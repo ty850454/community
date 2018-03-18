@@ -1,4 +1,4 @@
-package com.dreammakerteam.community.enums;
+package com.dreammakerteam.community.core.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

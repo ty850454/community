@@ -1,10 +1,8 @@
-package com.dreammakerteam.community.dao;
+package com.dreammakerteam.community.core.dao;
 
-import com.dreammakerteam.community.domian.BaseEntity;
+import com.dreammakerteam.community.core.domian.BaseEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.NoRepositoryBean;
-
-import java.io.Serializable;
 
 /**
  * 基础存储库

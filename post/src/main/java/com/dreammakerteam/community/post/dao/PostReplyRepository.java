@@ -1,6 +1,6 @@
 package com.dreammakerteam.community.post.dao;
 
-import com.dreammakerteam.community.dao.BaseRepository;
+import com.dreammakerteam.community.core.dao.BaseRepository;
 import com.dreammakerteam.community.post.domain.PostReplyEntity;
 
 import java.util.List;

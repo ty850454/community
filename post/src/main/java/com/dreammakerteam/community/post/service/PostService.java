@@ -3,7 +3,7 @@ package com.dreammakerteam.community.post.service;
 import com.dreammakerteam.community.post.dao.PostRepository;
 import com.dreammakerteam.community.post.domain.PostEntity;
 import com.dreammakerteam.community.post.domain.PostResponseVo;
-import com.dreammakerteam.community.service.BaseService;
+import com.dreammakerteam.community.core.service.BaseService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;

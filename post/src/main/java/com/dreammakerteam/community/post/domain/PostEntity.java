@@ -1,6 +1,6 @@
 package com.dreammakerteam.community.post.domain;
 
-import com.dreammakerteam.community.domian.BaseEntity;
+import com.dreammakerteam.community.core.domian.BaseEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;

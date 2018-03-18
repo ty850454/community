@@ -1,4 +1,4 @@
-package com.dreammakerteam.community.service;
+package com.dreammakerteam.community.core.service;
 
 /**
  * 基础服务

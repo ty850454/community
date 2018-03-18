@@ -1,15 +1,13 @@
-package com.dreammakerteam.community.dao;
+package com.dreammakerteam.community.core.dao;
 
-import com.dreammakerteam.community.domian.BaseEntity;
-import com.dreammakerteam.community.enums.ValidEnum;
+import com.dreammakerteam.community.core.domian.BaseEntity;
+import com.dreammakerteam.community.core.enums.ValidEnum;
 import org.springframework.data.jpa.repository.support.JpaEntityInformation;
 import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
-import java.io.Serializable;
 import java.util.Date;
-import java.util.Optional;
 
 /**
  * 基础存储库实现

@@ -1,4 +1,4 @@
-package com.dreammakerteam.community.domian;
+package com.dreammakerteam.community.core.domian;
 
 import lombok.Data;
 
